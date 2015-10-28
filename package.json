@@ -1,0 +1,19 @@
+{
+  "name": "scscrape",
+  "version": "1.0.0",
+  "description": "Soundcloud scraper that uses 9soundclouddownloader.com",
+  "main": "scscrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scraper"
+  ],
+  "author": "Michiel Sikma <michiel@sikma.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "argparse": "^1.0.3",
+    "cheerio": "^0.19.0",
+    "request": "^2.65.0"
+  }
+}
