@@ -9,6 +9,11 @@
   "keywords": [
     "scraper"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msikma/scscrape"
+  },
+  "homepage": "https://github.com/msikma/scscrape",
   "author": "Michiel Sikma <michiel@sikma.org>",
   "license": "MIT",
   "devDependencies": {
