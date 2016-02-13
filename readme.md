@@ -1,3 +1,7 @@
+**Don't use this. It's not working correctly anymore.**
+
+I recommend that you try using [youtube-dl](https://rg3.github.io/youtube-dl/), which works with Soundcloud URLs.
+
 scscrape
 ========
 
